@@ -1,0 +1,22 @@
+vert_assoc	13	Herpesviridae,Alloherpesviridae,Adenoviridae,Papillomaviridae,Polyomaviridae,Asfarviridae,Iridoviridae,Poxviridae,Anelloviridae,Circoviridae,Genomoviridae,Parvoviridae,Hepadnaviridae,Retroviridae,Birnaviridaeviridae,Reoviridaeviridae,Picobirnaviridae,Hepeviridae,Arteriviridae,Coronaviridae,Picornaviridae,Astroviridae,Caliciviridae,Flaviviridae,Matonaviridae,Nodaviridae,Togaviridae,Bornaviridae,Nyamiviridae,Rhabdoviridae,Filoviridae,Paramyxoviridae,Pneumoviridae,Arenaviridae,Hantaviridae,Nairoviridae,Phenuiviridae,Orthomyxoviridae,PeriBunyaviridae,Sunviridae
+vert_assoc	14	Deltavirus
+all_virus	9	Viruses
+mammal	11	Mammalia
+
+# format: group_name <tab> tax_level <tab> tax_list
+# tax_level:
+#   14 = genus
+#   13 = family
+#   12 = order
+#   11 = class
+#   10 = phylum
+#   9  = kindom
+
+# some other useful groups, uncomment to use
+
+# vert_assoc_DNA	13	Herpesviridae,Alloherpesviridae,Adenoviridae,Papillomaviridae,Polyomaviridae,Asfarviridae,Iridoviridae,Poxviridae,Anelloviridae,Circoviridae,Genomoviridae,Parvoviridae,Hepadnaviridae
+
+# vert_assoc_RNA	13	Birnaviridaeviridae,Reoviridaeviridae,Picobirnaviridae,Hepeviridae,Arteriviridae,Coronaviridae,Picornaviridae,Astroviridae,Caliciviridae,Flaviviridae,Matonaviridae,Nodaviridae,Togaviridae,Bornaviridae,Nyamiviridae,Rhabdoviridae,Filoviridae,Paramyxoviridae,Pneumoviridae,Arenaviridae,Hantaviridae,Nairoviridae,Phenuiviridae,Orthomyxoviridae,PeriBunyaviridae,Sunviridae
+# vert_assoc_RNA	14	Deltavirus
+
+# vert_assoc_no_Retro	13	Herpesviridae,Alloherpesviridae,Adenoviridae,Papillomaviridae,Polyomaviridae,Asfarviridae,Iridoviridae,Poxviridae,Anelloviridae,Circoviridae,Genomoviridae,Parvoviridae,Hepadnaviridae,Retroviridae,Birnaviridaeviridae,Reoviridaeviridae,Picobirnaviridae,Hepeviridae,Arteriviridae,Coronaviridae,Picornaviridae,Astroviridae,Caliciviridae,Flaviviridae,Matonaviridae,Nodaviridae,Togaviridae,Bornaviridae,Nyamiviridae,Rhabdoviridae,Filoviridae,Paramyxoviridae,Pneumoviridae,Arenaviridae,Hantaviridae,Nairoviridae,Phenuiviridae,Orthomyxoviridae,PeriBunyaviridae,Sunviridae
